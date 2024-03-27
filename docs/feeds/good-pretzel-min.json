@@ -8,10 +8,10 @@
   "items": [
     {
       "id": "a1",
-      "content_html": "<img src=https://openstories.fyi/feeds/images/pretzel-1.jpeg alt='A pretzel'>",
+      "content_html": "<img src=https://openstories.fyi/feeds/images/mug.jpeg alt='A pretzel'>",
       "_open_stories": {
         "mime_type": "image/jpeg",
-        "url": "https://openstories.fyi/feeds/images/pretzel-1.jpeg",
+        "url": "https://openstories.fyi/feeds/images/mug.jpeg",
         "alt": "A pretzel."
       }
     },
