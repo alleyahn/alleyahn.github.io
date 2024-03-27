@@ -50,6 +50,22 @@
         "caption": "EXPIRED.",
         "reactions": { "open_heart_urls": ["https://api.openheart.fyi"] },
         "preview": { "blurhash": "|7GIQ14TIVt6xuMytSenbcKOJAI?bIWVkCf5ofof*0%1-UxZVsxuR5X8RP8{RPn}IpM{NGkXWBbbIUtlRPaftRs.xuoJtR-QaJR.t7tlafMxWVRPRiNHOZnhi_WBt7t6jEyDt6nhs:VYbbozRjkWIVn$xYNbX9j]M{a|oz" }
+
+        }
+    },
+    {
+      "id": "a4",
+      "content_html": "<img src=https://openstories.fyi/feeds/images/mug.jpeg alt=''>",
+      "date_published": "2024-01-27T00:00:00+08:00",
+      "_open_stories": {
+        "mime_type": "image/jpeg",
+        "url": "https://openstories.fyi/feeds/images/mug.jpeg",
+        "alt": "EXPIRED.",
+        "date_expired": "2000-11-07T00:00:00+08:00",
+        "duration_in_seconds": 5,
+        "caption": "EXPIRED.",
+        "reactions": { "open_heart_urls": ["https://api.openheart.fyi"] },
+        "preview": { "blurhash": "|7GIQ14TIVt6xuMytSenbcKOJAI?bIWVkCf5ofof*0%1-UxZVsxuR5X8RP8{RPn}IpM{NGkXWBbbIUtlRPaftRs.xuoJtR-QaJR.t7tlafMxWVRPRiNHOZnhi_WBt7t6jEyDt6nhs:VYbbozRjkWIVn$xYNbX9j]M{a|oz" }
       }
     }
   ]
