@@ -1,7 +1,7 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Good pretzel (minimum)",
-  "feed_url": "https://openstories.fyi/feeds/good-pretzel-min.json",
+  "feed_url": https://alleyahn.github.io/feeds/good-pretzel-min.json",
   "_open_stories": {
     "version": "0.0.9"
   },
@@ -17,11 +17,11 @@
     },
     {
       "id": "a2",
-      "content_html": "<img src=https://openstories.fyi/feeds/images/pretzel-2.jpeg alt='A pretzel'>",
+      "content_html": "<img src=https://alleyahn.github.io/feeds/images/pretzel-2.jpeg alt='A pretzel'>",
       "date_published": "2022-11-07T00:00:00+08:00",
       "_open_stories": {
         "mime_type": "image/jpeg",
-        "url": "https://openstories.fyi/feeds/images/pretzel-2.jpeg",
+        "url": "https://alleyahn.github.io/feeds/images/pretzel-2.jpeg",
         "alt": "A pretzel."
       }
     }
