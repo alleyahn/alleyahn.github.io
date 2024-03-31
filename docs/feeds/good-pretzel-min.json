@@ -8,10 +8,10 @@
   "items": [
     {
       "id": "a1",
-      "content_html": "<img src=https://openstories.fyi/feeds/images/mug.jpeg alt='A pretzel'>",
+      "content_html": "<img src=https://alleyahn.github.io/feeds/images/mug.jpeg alt='A nice mug'>",
       "_open_stories": {
         "mime_type": "image/jpeg",
-        "url": "https://openstories.fyi/feeds/images/mug.jpeg",
+        "url": "https://alleyahn.github.io/feeds/images/mug.jpeg",
         "alt": "A nice mug."
       }
     },
